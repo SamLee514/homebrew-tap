@@ -1,4 +1,4 @@
-class Tle < Formula
+class Morsel < Formula
   desc "CLI for translating Morse code input to text in real time."
   homepage "https://github.com/samlee514/morsel"
   url "https://github.com/SamLee514/morsel/releases/download/v0.1.0/morsel.tar.gz"
@@ -9,3 +9,4 @@ class Tle < Formula
     bin.install "morsel"
   end
 end
+
