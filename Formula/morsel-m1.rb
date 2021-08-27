@@ -1,4 +1,4 @@
-class Morsel < Formula
+class MorselM1 < Formula
   desc "CLI for translating Morse code input to text in real time."
   homepage "https://github.com/samlee514/morsel"
   url "https://github.com/SamLee514/morsel/releases/download/v0.1.1/morsel-mac-m1.tar.gz"
